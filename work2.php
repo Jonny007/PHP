@@ -78,6 +78,7 @@
             <ul>
                 <li><a href="work1.php" class="decorate">Work 1</a> </li>
                 <li><a href="work2.php" class="decorate">Work 2</a> </li>
+                <li><a href="work3.php" class="decorate">Work 3</a> </li>
                 <li><a href="https://github.com/Jonny007/PHP" class="decorate" >Git </a> </li>
             </ul>
         </nav>
@@ -970,7 +971,7 @@
 
                     for ($y=10;$y<=10;$y++)
                     {
-                        print "<a style='color: blue'>".$x."</a>*<a style='color: red'>4</a><a>0</a>=<a style='color: blue'>4</a><a>0</a><br>";
+                        print "<a style='color: blue'>".$x."</a>*<a style='color: blue'>4</a><a>0</a>=<a style='color: blue'>4</a><a>0</a><br>";
 
                     }
 

@@ -77,6 +77,7 @@
         <ul>
             <li><a href="work1.php" class="decorate">Work 1</a> </li>
             <li><a href="work2.php" class="decorate">Work 2</a> </li>
+            <li><a href="work3.php" class="decorate">Work 3</a> </li>
             <li><a href="https://github.com/Jonny007/PHP" class="decorate" >Git </a> </li>
         </ul>
     </nav>
